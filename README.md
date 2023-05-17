@@ -1,4 +1,4 @@
-# CS6650 GoChat Project
+#GoChat - A Distributed Chat room
 
 ## Overview
 Our GoChat system is a real-time messaging platform that allows users to communicate with each other in a group setting. The system is designed to be scalable and reliable.
