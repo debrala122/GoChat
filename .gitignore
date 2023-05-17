@@ -1,0 +1,10 @@
+.vscode/
+.bloop/
+.metals/
+.DS_Store
+
+
+/logs/
+/target/*
+!/target/chat-1.0.jar
+
